@@ -510,14 +510,3 @@ UPLOAD_DIR=./uploads
 CAPTIONS_DIR=./captions
 ```
 
----
-
-## Additional Resources
-
-- **Architecture Diagram**: See main README.md
-- **API Documentation**: OpenAI, Groq, Azure docs
-- **Model Cards**: Hugging Face model pages
-
----
-
-*Last Updated: April 2025*
